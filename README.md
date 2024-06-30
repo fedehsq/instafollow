@@ -2,7 +2,7 @@
 Instafollow is a simple script that allows you to see followers, following, not following back and not followed back on Instagram.
 
 ## Instructions
-1. Login to your Instagram account on your browser
+1. Login to your [Instagram](https://www.instagram.com/) account on your browser
 2. Go [here](https://accountscenter.instagram.com/info_and_permissions/dyi/) and click on "Download or transfer informations"
 3. Select instgram account > Some of my data > Followers and Following
 4. Download to device
